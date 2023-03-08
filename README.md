@@ -1,1 +1,1 @@
-first README.md for 0x00. Shell, basics
+first README.md for :0x00. Shell, basics
